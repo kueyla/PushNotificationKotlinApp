@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460134181980",
+    "project_id": "pushnotification-29ae0",
+    "storage_bucket": "pushnotification-29ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460134181980:android:4636710b8750339c04ca99",
+        "android_client_info": {
+          "package_name": "com.umitgulbak.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460134181980-u2pef6b5t26s0ie6dcib5v1ivqe57iqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPk8jnmb4stsqP01HqC7GXRNbCxA3EA4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460134181980-u2pef6b5t26s0ie6dcib5v1ivqe57iqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
